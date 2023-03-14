@@ -12,9 +12,8 @@ Tic-Tac-Toe is a simple and fun game for two players. The goal of the game is to
 <br>
 
 ## Application Preview
-https://user-images.githubusercontent.com/65067289/225121928-a26f3ff8-2aa0-4a70-9bab-e6492cb920f8.mp4
 
-
+https://user-images.githubusercontent.com/65067289/225123462-1c70d40a-507a-4598-9e9e-5a90340b3d4f.mp4
 
 <br>
 
