@@ -2,6 +2,7 @@
 
 Tic-Tac-Toe is a simple and fun game for two players. The goal of the game is to make a horizontal, vertical, or diagonal line of three marks of your own symbol (X or O) on a 3x3 grid. The game ends when one player wins or the grid is full and there is no winner.
 
+
 <br>
 
 ## Features
@@ -45,4 +46,7 @@ You can choose between `Blue`, `Dark-Blue` or `Green` color for your symbols and
 
 ## Feedback
 
-We hope you enjoy playing Tic-Tac-Toe! If you have any suggestions, issues, or want to contribute to this project, please contact us at @s41r4j on [Twitter](https://twitter.com/s41r4j), [Instagram](https://www.instagram.com/s41r4j/), or [GitHub](https://github.com/s41r4j).
+#### If you would like to contribute to this project, please fork the repository and submit a pull request with your changes. I welcome any suggestions or improvements that can make this game more fun, enjoyable and (most imp) bug free. Contact us at @s41r4j on [Twitter](https://twitter.com/s41r4j), [Instagram](https://www.instagram.com/s41r4j/), or [GitHub](https://github.com/s41r4j).
+
+#### Note: If you are interested in contributing or developing upon the code of this project, please check the [`dev_note.md`](https://github.com/s41r4j/tictactoe/blob/main/dev_note.md) file for some important information and guidelines. Thank you for your interest and support!
+
