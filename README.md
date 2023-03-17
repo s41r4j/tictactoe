@@ -1,25 +1,27 @@
-# Tic-Tac-Toe
+# :x: Tic-Tac-Toe :o:
 
-Tic-Tac-Toe is a simple and fun game for two players. The goal of the game is to make a horizontal, vertical, or diagonal line of three marks of your own symbol (X or O) on a 3x3 grid. The game ends when one player wins or the grid is full and there is no winner.
+Tic-Tac-Toe is a simple and fun game application that can be played (offline / online) two players, build in python3. 
+- The goal of the game is to make a horizontal, vertical, or diagonal line of three marks of your own symbol (X or O) on a 3x3 grid. 
+- The game ends when one player wins or the grid is full and there is no winner.
 
 
 <br>
 
-## App Features
+## :newspaper: App Features :newspaper:
 
 - Three modes: AI vs Player, Player vs Player, and Online Multiplayer
-- Customizable themes and colors
+- Customizable themes (2+) and colors (3+)
 - Ester Egg (if you can find it!)
 
 <br>
 
-## App Preview
+## :open_file_folder: App Preview :open_file_folder:
 
 https://user-images.githubusercontent.com/65067289/225123462-1c70d40a-507a-4598-9e9e-5a90340b3d4f.mp4
 
 <br>
 
-## Download
+## :arrow_double_down: Download :arrow_double_down:
 If you want to play Tic-Tac-Toe on your Windows device, you can download the `tictactoe_v1.exe` file from [here](https://github.com/s41r4j/tictactoe/releases/download/v1.0/tictactoe_v1.exe). This is a standalone executable file that does not require Python to run. Just double-click on it and enjoy the game!
 
 If you want to play Tic-Tac-Toe on any device that can run Python, you can download the `tictactoe_v1.py` file from [here](https://github.com/s41r4j/tictactoe/releases/download/v1.0/tictactoe_v1.py). This is the code for the game that you can run with `python tictactoe_v1.py`; (for `requirements.txt` check [`dev_note.md`](https://github.com/s41r4j/tictactoe/blob/main/dev_note.md) file).
@@ -27,7 +29,7 @@ If you want to play Tic-Tac-Toe on any device that can run Python, you can downl
 <br>
 
 
-## Features (in details)
+## :memo: Features (in details) :memo:
 
 > You can choose one of the available modes from the settings menu:
 
@@ -53,7 +55,7 @@ If you want to play Tic-Tac-Toe on any device that can run Python, you can downl
 
 <br>
 
-## Feedback
+## :smile: Feedback :smiley:
 
 #### If you would like to contribute to this project, please fork the repository and submit a pull request with your changes. I welcome any suggestions or improvements that can make this game more fun, enjoyable and (most imp) bug free. Contact us at @s41r4j on [Twitter](https://twitter.com/s41r4j), [Instagram](https://www.instagram.com/s41r4j/), or [GitHub](https://github.com/s41r4j).
 
