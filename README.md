@@ -9,6 +9,7 @@ Tic-Tac-Toe is a simple and fun game for two players. The goal of the game is to
 
 - Three modes: AI vs Player, Player vs Player, and Online Multiplayer
 - Customizable themes and colors
+- Ester Egg (if you can find it!)
 
 <br>
 
