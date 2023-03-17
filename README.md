@@ -22,9 +22,9 @@ https://user-images.githubusercontent.com/65067289/225123462-1c70d40a-507a-4598-
 <br>
 
 ## :arrow_double_down: Download :arrow_double_down:
-If you want to play Tic-Tac-Toe on your Windows device, you can download the `tictactoe_v1.exe` file from [here](https://github.com/s41r4j/tictactoe/releases/download/v1.0/tictactoe_v1.exe). This is a standalone executable file that does not require Python to run. Just double-click on it and enjoy the game!
+If you want to play Tic-Tac-Toe on your Windows device, you can download the `tictactoe_v1.exe` file from [HERE](https://github.com/s41r4j/tictactoe/releases/download/v1.0/tictactoe_v1.exe) (OR get it from latest [releases](https://github.com/s41r4j/tictactoe/releases/tag/v1.0)). This is a standalone executable file that does not require Python to run. Just double-click on it and enjoy the game!
 
-If you want to play Tic-Tac-Toe on any device that can run Python, you can download the `tictactoe_v1.py` file from [here](https://github.com/s41r4j/tictactoe/releases/download/v1.0/tictactoe_v1.py). This is the code for the game that you can run with `python tictactoe_v1.py`; (for `requirements.txt` check [`dev_note.md`](https://github.com/s41r4j/tictactoe/blob/main/dev_note.md) file).
+If you want to play Tic-Tac-Toe on any device that can run Python, you can download the `tictactoe_v1.py` file from [HERE](https://github.com/s41r4j/tictactoe/releases/download/v1.0/tictactoe_v1.py) (OR get it from latest [releases](https://github.com/s41r4j/tictactoe/releases/tag/v1.0)). This is the code for the game that you can run with `python tictactoe_v1.py`; (for `requirements.txt` check [`dev_note.md`](https://github.com/s41r4j/tictactoe/blob/main/dev_note.md) file).
 
 <br>
 
